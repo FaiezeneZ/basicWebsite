@@ -1,0 +1,84 @@
+ody, h1, h2, p, ul {
+  margin: 0;
+  padding: 0;
+}
+
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ae2d2d;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  background-color: hsl(0, 16%, 70%); 
+}
+
+
+header img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin: 20px auto;
+}
+
+header h1 {
+  font-size: 28px;
+  margin: 10px 0;
+}
+
+
+.education h2 {
+  color: #333;
+  font-size: 24px;
+  margin: 20px 0;
+}
+
+.education p {
+  font-size: 16px;
+  color: #666;
+  margin: 5px 0;
+}
+
+
+.skills h2 {
+  color: #333;
+  font-size: 24px;
+  margin: 20px 0;
+}
+
+.skills ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.skills li {
+  font-size: 18px;
+  color: #666;
+  margin: 5px 0;
+}
+
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 0;
+}
+
+
+.projects h2 {
+  color: #333;
+  font-size: 24px;
+  margin: 20px 0;
+}
+
+.project-list {
+  list-style: disc;
+  font-size: 16px;
+  color: #666;
+  margin: 10px 0;
+  padding-left: 20px;
+}
